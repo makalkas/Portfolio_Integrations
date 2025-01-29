@@ -1,1 +1,1 @@
-1. This is a picture of some 5Kc/100A breakers.
+1. This is a picture of some low voltage (120V/5KA 3@) breakers.
