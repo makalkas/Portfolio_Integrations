@@ -6,3 +6,7 @@ This repository contains example files from some integration projects.
 
 ## Some new construction white space I eventually integrated into Kepware
 ![Example New construction Whitespace](https://github.com/makalkas/Portfolio_Integrations/blob/main/Pictures/IMG_20130403_084730_060.jpg)
+
+## Example White space equipment integrated
+![Example New construction Whitespace](https://github.com/makalkas/Portfolio_Integrations/blob/main/Pictures/FPC-integration.png)
+
