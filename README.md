@@ -3,7 +3,7 @@ This repository contains example files from some integration projects.
 ## Example locations where Integrations occured
 Suwanee
 ![Suwanee New construction Whitespace](https://github.com/makalkas/Portfolio_Integrations/blob/main/Pictures/IMG_20130403_084730_060.jpg)
---Atlanta
+-- Atlanta
 ![Hallway In Atlanta](https://github.com/makalkas/Portfolio_Integrations/blob/main/AtlantaHallway.png)
 ![Atlanta White space room](https://github.com/makalkas/Portfolio_Integrations/blob/main/AtlantaWhitespaceRoom.png)
 
